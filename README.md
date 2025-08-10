@@ -1,4 +1,4 @@
-Olá, meu nome é [@Viniciusleao1](https://github.com/Viniciusleao1) 👋
+Olá, meu nome é [@RuanVinicius1](https://github.com/RuanVinicius1) 👋
 
 **Engenheiro de Software** | **Aprendiz apaixonado**
 
@@ -17,7 +17,7 @@ Olá, meu nome é [@Viniciusleao1](https://github.com/Viniciusleao1) 👋
 
  Como chegar até mim:
 
-* **E-mail:** viniciusleaonascimento@gmail.com
+* **E-mail:** ruanviniciusbruno@gmail.com
 * **LinkedIn:** https://br.linkedin.com/in/viniciusle%C3%A3o  
 
 

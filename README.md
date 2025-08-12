@@ -18,7 +18,7 @@ Olá, meu nome é [@RuanVinicius1](https://github.com/RuanVinicius1) 👋
  Como chegar até mim:
 
 * **E-mail:** ruanviniciusbruno@gmail.com
-* **LinkedIn:** https://br.linkedin.com/in/viniciusle%C3%A3o  
+* **LinkedIn:** https://br.linkedin.com/in/ruanvinicius1  
 
 
 ⚡ Curiosidade: Quando não estou codando, você pode me encontrar explorando trilhas e observando a natureza. A tranquilidade da floresta me inspira a criar códigos mais limpos e eficientes!).  ‍✨

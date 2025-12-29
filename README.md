@@ -3,7 +3,7 @@ Olá, meu nome é [@RuanVinicius1](https://github.com/RuanVinicius1) 👋
 **Engenheiro de Software** | **Aprendiz apaixonado**
 
  [![GitHub stars](https://img.shields.io/github/stars/RuanVinicius1?style=social)](https://github.com/RuanVinicius1)
- ![Bluesky followers](https://img.shields.io/bluesky/followers/:actor)
+ ![Bluesky followers](https://img.shields.io/bluesky/followers/RuanVinicius1?style=social)
 
 
  Estou interessado em criar **aplicativos intuitivos e fáceis de usar** que ajudem as pessoas a gerenciar suas finanças e investimentos.  Também sou fascinado pelo **aprendizado de máquina** e seu potencial para revolucionar vários setores.

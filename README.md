@@ -13,7 +13,7 @@
 
  Estou interessado em criar **aplicativos intuitivos e fáceis de usar** que ajudem as pessoas a gerenciar suas finanças e investimentos.  Também sou fascinado pelo **aprendizado de máquina** e seu potencial para revolucionar vários setores.
 
- Atualmente estou aprendendo **Passport** e **Delphi** e expandindo meu conhecimento em **[Oracle, Query]** e relações assíncronas.
+ Atualmente estou aprendendo **Passport** e **Delphi** e expandindo meus conhecimentos em **[Oracle, Query]** e relações assíncronas.
  #### 💻 Linguagens & Core
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)

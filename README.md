@@ -1,8 +1,8 @@
-# Olá, meu nome é [Ruan Vinicius](https://github.com/RuanVinicius1) 👋
+# Olá, meu nome é [Ruan Vinicius](https://github.com/ruanviniciusbruno) 👋
 
 **Engenheiro de Software** | **Aprendiz apaixonado**
 
- [![GitHub stars](https://img.shields.io/github/stars/RuanVinicius1?style=social)](https://github.com/RuanVinicius1)
+ [![GitHub stars](https://img.shields.io/github/stars/ruanviniciusbruno?style=social)](https://github.com/ruanviniciusbruno)
 
  ### 🎓 Educação & Foco
 * 🏛️ **Estudante de Análise e Desenvolvimento de Sistemas (ADS)** na **UNIVERSIDADE PITÁGORAS UNOPAR ANHANGUERA**

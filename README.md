@@ -27,7 +27,7 @@
  Como chegar até mim:
 
 * **E-mail:** ruanviniciusbruno@gmail.com
-* **LinkedIn:** https://br.linkedin.com/in/ruanvinicius1  
+* **LinkedIn:** https://br.linkedin.com/in/ruanviniciusbruno  
 
 
 ⚡ Curiosidade: Quando não estou codando, você pode me encontrar explorando trilhas e observando a natureza. A tranquilidade da floresta me inspira a criar códigos mais limpos e eficientes!).  ‍✨
